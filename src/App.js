@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import data from './data';
 import List from './List';
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
